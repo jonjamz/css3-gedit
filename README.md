@@ -2,7 +2,7 @@ This file replaces the standard CSS file for Gedit or a gtksourceview text edito
 
 ### Installation and Use
 
-1. Download and place .lang file in `/usr/share/gtksourceview-2.0/language-specs` or `/usr/share/gtksourceview-3.0/language-specs` for Ubuntu 11.10. Replace the existing css.lang file.
+1. Download and place .lang file in `/usr/share/gtksourceview-2.0/language-specs` or `/usr/share/gtksourceview-3.0/language-specs` for Ubuntu 11.10+. Replace the existing css.lang file.
 
 2. Restart or run Gedit and open any of your CSS3-inclusive files.
 
